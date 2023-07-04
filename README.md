@@ -1,5 +1,5 @@
 <p align="center"> 
-<u>♥️ FB CLONING FREE TOOL 😎 ♥️</u>
+<u>♥️ FB CLONING FREE TOOL ♥️</u>
 </p>
 <p align="center">
 <img src="https://i.ibb.co/N1zkGvX/FB-IMG-1688478567805.jpg" width="300" height="300"/>
@@ -9,7 +9,7 @@
 
 
 
-<b></b> </br> <br>[![Facebook](https://img.shields.io/badge/Facebook-ALISH-blue?style=flat-square&logo=facebook)](https://www.facebook.com/profile.php?id=100077193609806)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-ALISH-OP-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923468505939)
+<b></b> </br> <br>[![Facebook](https://img.shields.io/badge/Facebook-ALISH-blue?style=flat-square&logo=facebook)](https://www.facebook.com/profile.php?id=100077193609806)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-ALISH-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923468505939)
  
 
 
