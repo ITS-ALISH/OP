@@ -5,7 +5,7 @@
 <img src="https://i.ibb.co/N1zkGvX/FB-IMG-1688478567805.jpg" width="300" height="300"/>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=WECOME+TO+ALISH+QUEEN+CMD" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d3fa02&center=true&vCenter=true&multiline=false&lines=WECOME+TO+ALISH+QUEEN+CMD" alt="">
 
 
 
